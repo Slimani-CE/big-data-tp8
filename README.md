@@ -1,4 +1,4 @@
-# TP1 : Spark MLib ✨
+# TP8 : Spark MLib ✨
 Ce TP vise à démontrer l'utilisation d'Apache Spark pour la réalisation de tâches d'analyse de données. Le projet contient deux classes principales :
 
 - `LinearRegression`: Effectue une régression linéaire sur un ensemble de données publicitaires.
